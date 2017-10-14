@@ -1,0 +1,6 @@
+MVI D 8C
+MVI C 6F
+INR C
+MOV A C
+ADD D
+HLT
